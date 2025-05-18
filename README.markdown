@@ -130,32 +130,7 @@ curl -X POST http://localhost:5000/api/tasks \
 ├── README.md
 ```
 
-## Testing
-- Use Postman or Insomnia to test API endpoints.
-- Unit tests (if implemented) can be run with:
-  ```bash
-  npm test
-  ```
-- Ensure you have a valid JWT token for protected routes.
-
-## Deployment
-To deploy the backend:
-1. Push the code to a hosting platform (e.g., Heroku, Render, or AWS).
-2. Set up environment variables on the hosting platform.
-3. Ensure MongoDB is accessible (e.g., via MongoDB Atlas).
-4. Use a process manager like PM2 for production.
-
-## Contributing
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -m "Add your feature"`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
-
-## License
-This project is licensed under the MIT License.
-
 ## Contact
-- **GitHub**: [Nemo97-76](https://github.com/Nemo97-76)
-- **Email**: your-email@example.com (replace with your actual email)
+- **Email**: tasneemyoussef61@gmail.com
+
+feel free to contact  
