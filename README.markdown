@@ -8,7 +8,7 @@ A robust and scalable backend for a task management application, designed to han
 - **Data Persistence**: Store tasks and user data in a MongoDB database.
 - **RESTful API**: Well-documented endpoints following REST principles for easy integration with front-end applications.
 - **Error Handling**: Comprehensive error responses for invalid requests or server issues.
-- **Environment Configuration**: Use environment variables for secure configuration (e.g., database URI, JWT secret).
+- **Environment Configuration**: Use environment variables for secure configuration.
 
 ## Tech Stack
 - **Node.js**: JavaScript runtime for building the server.
